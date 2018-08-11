@@ -1,0 +1,2 @@
+# EnumConvertSQLCase
+将枚举转化成sql中的Case语句
