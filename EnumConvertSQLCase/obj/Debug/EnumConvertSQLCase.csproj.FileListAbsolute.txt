@@ -1,0 +1,7 @@
+c:\users\administrator\documents\visual studio 2017\Projects\EnumConvertSQLCase\EnumConvertSQLCase\bin\Debug\EnumConvertSQLCase.exe.config
+c:\users\administrator\documents\visual studio 2017\Projects\EnumConvertSQLCase\EnumConvertSQLCase\bin\Debug\EnumConvertSQLCase.exe
+c:\users\administrator\documents\visual studio 2017\Projects\EnumConvertSQLCase\EnumConvertSQLCase\bin\Debug\EnumConvertSQLCase.pdb
+c:\users\administrator\documents\visual studio 2017\Projects\EnumConvertSQLCase\EnumConvertSQLCase\obj\Debug\EnumConvertSQLCase.csprojAssemblyReference.cache
+c:\users\administrator\documents\visual studio 2017\Projects\EnumConvertSQLCase\EnumConvertSQLCase\obj\Debug\EnumConvertSQLCase.csproj.CoreCompileInputs.cache
+c:\users\administrator\documents\visual studio 2017\Projects\EnumConvertSQLCase\EnumConvertSQLCase\obj\Debug\EnumConvertSQLCase.exe
+c:\users\administrator\documents\visual studio 2017\Projects\EnumConvertSQLCase\EnumConvertSQLCase\obj\Debug\EnumConvertSQLCase.pdb
